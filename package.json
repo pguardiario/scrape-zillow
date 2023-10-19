@@ -1,0 +1,15 @@
+{
+  "name": "scrape-zillow",
+  "version": "1.0.1",
+  "description": "Scrape any html with zillow data on it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["zillow", "scraper", "parser"],
+  "author": "pguardiario@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.12"
+  }
+}
