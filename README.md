@@ -1,8 +1,8 @@
 # scrape-google-maps
-Scrape google maps data from any html
+Scrape zillow data from any html
 
 ## install
-npm i --save scrape-google-maps
+npm i --save scrape-zillow
 
 ## use
 ```javascript
